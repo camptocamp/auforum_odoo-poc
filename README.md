@@ -1,0 +1,1 @@
+# auforum_odoo-poc
